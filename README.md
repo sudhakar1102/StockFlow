@@ -1,3 +1,8 @@
+## Live demo
+- Live app: https://stockflow-hgon.onrender.com
+- Demo login: demo@stockflow.com / Demo@1234
+- Hosted on a free plan, so the first load can take up to a minute.
+
 # StockFlow MVP
 
 Multi-tenant inventory app: sign up, manage products, see a dashboard with low-stock items.
